@@ -1,0 +1,21 @@
+.research-papers {
+    padding: 20px;
+  }
+  .paper:hover{
+    background-color: #2ebec6;
+    transition: 1s;
+  }
+  
+  .paper-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+  }
+  
+  .paper {
+    padding: 10px;
+    border: 1px solid #2b0404;
+    border-radius: 20px;
+  }
+  
+ 

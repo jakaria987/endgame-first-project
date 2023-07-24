@@ -1,0 +1,470 @@
+[
+    {
+        "college_id": 1,
+        "college_image": "https://i.ibb.co/qW19GPG/stanford-university-best-universities-in-the-united-states-2016.jpg",
+        "college_name": "Harvard University",
+        "rating": "4.68",
+        "admission_dates": [
+          {
+            "semester": "Fall 2023",
+            "start_date": "2023-08-15",
+            "end_date": "2023-09-30"
+          },
+          {
+            "semester": "Spring 2024",
+            "start_date": "2024-01-15",
+            "end_date": "2024-02-28"
+          }
+        ],
+        "events": [
+          {
+            "event_name": "Orientation Day",
+            "date": "2023-09-01",
+            "location": "Campus Auditorium"
+          },
+          {
+            "event_name": "Career Fair",
+            "date": "2023-11-10",
+            "location": "Student Center"
+          }
+        ],
+        "research_history": [
+          {
+            "year": "2022",
+            "description": "Establishment of the Center for Advanced Research"
+          },
+          {
+            "year": "2023",
+            "description": "Publication of groundbreaking research in the field of Science"
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Football",
+            "coach": "John Smith",
+            "practice_schedule": "Monday, Wednesday, Friday 4:00 PM - 6:00 PM"
+          },
+          {
+            "sport_name": "Basketball",
+            "coach": "Jane Doe",
+            "practice_schedule": "Tuesday, Thursday 5:00 PM - 7:00 PM"
+          }
+        ]
+      },
+      {
+        "college_id": 2,
+        "college_image": "https://i.ibb.co/mT6Ttk1/20060425-Nassau-Hall-JJ-IMG-5973-1-1200x600.jpg",
+        "college_name": "Stanford University",
+        "rating": "4.25",
+        "admission_dates": [
+          {
+            "semester": "Fall 2023",
+            "start_date": "2023-08-20",
+            "end_date": "2023-09-25"
+          },
+          {
+            "semester": "Spring 2024",
+            "start_date": "2024-01-20",
+            "end_date": "2024-03-01"
+          }
+        ],
+        "events": [
+          {
+            "event_name": "Welcome Party",
+            "date": "2023-09-10",
+            "location": "Campus Grounds"
+          },
+          {
+            "event_name": "Hackathon",
+            "date": "2023-11-20",
+            "location": "Computer Science Building"
+          }
+        ],
+        "research_history": [
+          {
+            "year": "2022",
+            "description": "Launching of the Institute for Innovation and Technology"
+          },
+          {
+            "year": "2023",
+            "description": "Discovery of a new species in the field of Biology"
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Volleyball",
+            "coach": "Michael Johnson",
+            "practice_schedule": "Tuesday, Thursday 6:00 PM - 8:00 PM"
+          },
+          {
+            "sport_name": "Swimming",
+            "coach": "Sarah Williams",
+            "practice_schedule": "Monday, Wednesday, Friday 7:00 AM - 9:00 AM"
+          }
+        ]
+      },
+      {
+        "college_id": 3,
+        "college_image": "https://i.ibb.co/zbHwPGV/images-q-tbn-ANd9-Gc-TSo-Od-HQt-m-Dlm-Ge-VD2-V4-S1-Lz-JZm-CJCQf-V0g-usqp-CAU.jpg",
+        "college_name": "University of Chicago",
+        "rating": "5.00",
+        "admission_dates": [
+          {
+            "semester": "Fall 2023",
+            "start_date": "2023-09-01",
+            "end_date": "2023-10-15"
+          },
+          {
+            "semester": "Spring 2024",
+            "start_date": "2024-01-10",
+            "end_date": "2024-02-25"
+          }
+        ],
+        "events": [
+          {
+            "event_name": "Freshers' Party",
+            "date": "2023-09-15",
+            "location": "Student Union Hall"
+          },
+          {
+            "event_name": "Tech Expo",
+            "date": "2023-11-25",
+            "location": "Engineering Block"
+          }
+        ],
+        "research_history": [
+          {
+            "year": "2022",
+            "description": "Establishment of the Center for Social Sciences Research"
+          },
+          {
+            "year": "2023",
+            "description": "Publication of notable research in Humanities"
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Tennis",
+            "coach": "David Miller",
+            "practice_schedule": "Monday, Wednesday, Friday 5:00 PM - 7:00 PM"
+          },
+          {
+            "sport_name": "Athletics",
+            "coach": "Jessica Adams",
+            "practice_schedule": "Tuesday, Thursday 7:00 AM - 9:00 AM"
+          }
+        ]
+      },
+      {
+        "college_id": 4,
+        "college_image": "https://i.ibb.co/sq7m4PC/images-q-tbn-ANd9-Gc-Rj0f-R4-GUWZYGCBz5zuj-GO9c-A4-F0074-SVH2cw-usqp-CAU.jpg",
+        "college_name": "Pennsylvania",
+        "rating": "4.19",
+        "admission_dates": [
+          {
+            "semester": "Fall 2023",
+            "start_date": "2023-08-25",
+            "end_date": "2023-09-30"
+          },
+          {
+            "semester": "Spring 2024",
+            "start_date": "2024-01-20",
+            "end_date": "2024-02-28"
+          }
+        ],
+        "events": [
+          {
+            "event_name": "Orientation Week",
+            "date": "2023-08-28",
+            "location": "College Auditorium"
+          },
+          {
+            "event_name": "Science Fair",
+            "date": "2023-11-15",
+            "location": "Science Building"
+          }
+        ],
+        "research_history": [
+          {
+            "year": "2022",
+            "description": "Establishment of the Institute for Environmental Studies"
+          },
+          {
+            "year": "2023",
+            "description": "Publication of groundbreaking research in Environmental Sciences"
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Cricket",
+            "coach": "Andrew Wilson",
+            "practice_schedule": "Tuesday, Thursday 4:00 PM - 6:00 PM"
+          },
+          {
+            "sport_name": "Badminton",
+            "coach": "Emily Davis",
+            "practice_schedule": "Monday, Wednesday, Friday 6:00 PM - 8:00 PM"
+          }
+        ]
+      },
+      {
+        "college_id": 5,
+        "college_image": "https://i.ibb.co/MB2HLCK/stanford-2.jpg",
+        "college_name": "Cornell University",
+        "rating": "3.99",
+        "admission_dates": [
+          {
+            "semester": "Fall 2023",
+            "start_date": "2023-08-20",
+            "end_date": "2023-09-25"
+          },
+          {
+            "semester": "Spring 2024",
+            "start_date": "2024-01-20",
+            "end_date": "2024-03-01"
+          }
+        ],
+        "events": [
+          {
+            "event_name": "Welcome Bash",
+            "date": "2023-08-25",
+            "location": "College Grounds"
+          },
+          {
+            "event_name": "Art Exhibition",
+            "date": "2023-11-18",
+            "location": "Fine Arts Building"
+          }
+        ],
+        "research_history": [
+          {
+            "year": "2022",
+            "description": "Establishment of the Center for Innovation and Entrepreneurship"
+          },
+          {
+            "year": "2023",
+            "description": "Publication of groundbreaking research in Business Studies"
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Soccer",
+            "coach": "Thomas Robinson",
+            "practice_schedule": "Monday, Wednesday, Friday 5:00 PM - 7:00 PM"
+          },
+          {
+            "sport_name": "Hockey",
+            "coach": "Elizabeth Turner",
+            "practice_schedule": "Tuesday, Thursday 6:00 PM - 8:00 PM"
+          }
+        ]
+      },
+      {
+        "college_id": 6,
+        "college_image": "https://i.ibb.co/Pr5q3Y1/images-q-tbn-ANd9-Gc-RHOSMe-FEo60-D7-Sar-Nw-ZFxu-Gtc0-B7qb-JVuz-Jw-usqp-CAU.jpg",
+        "college_name": "Columbia University",
+        "rating": "4.11",
+        "admission_dates": [
+          {
+            "semester": "Fall 2023",
+            "start_date": "2023-08-15",
+            "end_date": "2023-09-30"
+          },
+          {
+            "semester": "Spring 2024",
+            "start_date": "2024-01-15",
+            "end_date": "2024-02-28"
+          }
+        ],
+        "events": [
+          {
+            "event_name": "Freshers' Fair",
+            "date": "2023-08-28",
+            "location": "College Grounds"
+          },
+          {
+            "event_name": "Music Fest",
+            "date": "2023-11-12",
+            "location": "Amphitheater"
+          }
+        ],
+        "research_history": [
+          {
+            "year": "2022",
+            "description": "Establishment of the Center for Applied Mathematics"
+          },
+          {
+            "year": "2023",
+            "description": "Publication of groundbreaking research in Mathematics"
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Table Tennis",
+            "coach": "Richard Lee",
+            "practice_schedule": "Tuesday, Thursday 5:00 PM - 7:00 PM"
+          },
+          {
+            "sport_name": "Chess",
+            "coach": "Emma Carter",
+            "practice_schedule": "Monday, Wednesday, Friday 6:00 PM - 8:00 PM"
+          }
+        ]
+      },
+      {
+        "college_id": 7,
+        "college_image": "https://i.ibb.co/Jps4NmK/Kearney-Hall-2-960.jpg",
+        "college_name": "New York University",
+        "rating": "4.44",
+        "admission_dates": [
+          {
+            "semester": "Fall 2023",
+            "start_date": "2023-09-01",
+            "end_date": "2023-10-15"
+          },
+          {
+            "semester": "Spring 2024",
+            "start_date": "2024-01-10",
+            "end_date": "2024-02-25"
+          }
+        ],
+        "events": [
+          {
+            "event_name": "Orientation Week",
+            "date": "2023-09-05",
+            "location": "College Auditorium"
+          },
+          {
+            "event_name": "Literary Festival",
+            "date": "2023-11-22",
+            "location": "Library Hall"
+          }
+        ],
+        "research_history": [
+          {
+            "year": "2022",
+            "description": "Establishment of the Center for Linguistics Studies"
+          },
+          {
+            "year": "2023",
+            "description": "Publication of notable research in Language Studies"
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Rugby",
+            "coach": "James Adams",
+            "practice_schedule": "Monday, Wednesday, Friday 5:00 PM - 7:00 PM"
+          },
+          {
+            "sport_name": "Golf",
+            "coach": "Sophia Clark",
+            "practice_schedule": "Tuesday, Thursday 6:00 AM - 8:00 AM"
+          }
+        ]
+      },
+      {
+        "college_id": 8,
+        "college_image": "https://i.ibb.co/V3qM062/security31.jpg",
+        "college_name": "Brown University",
+        "rating": "3.57",
+        "admission_dates": [
+          {
+            "semester": "Fall 2023",
+            "start_date": "2023-08-20",
+            "end_date": "2023-09-25"
+          },
+          {
+            "semester": "Spring 2024",
+            "start_date": "2024-01-20",
+            "end_date": "2024-03-01"
+          }
+        ],
+        "events": [
+          {
+            "event_name": "Welcome Week",
+            "date": "2023-08-24",
+            "location": "College Grounds"
+          },
+          {
+            "event_name": "Dance Competition",
+            "date": "2023-11-16",
+            "location": "Student Union Hall"
+          }
+        ],
+        "research_history": [
+          {
+            "year": "2022",
+            "description": "Establishment of the Center for Film Studies"
+          },
+          {
+            "year": "2023",
+            "description": "Publication of groundbreaking research in Film and Media"
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Basketball",
+            "coach": "Andrew Johnson",
+            "practice_schedule": "Monday, Wednesday, Friday 6:00 PM - 8:00 PM"
+          },
+          {
+            "sport_name": "Squash",
+            "coach": "Laura Turner",
+            "practice_schedule": "Tuesday, Thursday 5:00 PM - 7:00 PM"
+          }
+        ]
+      },
+      {
+        "college_id": 9,
+        "college_image": "https://i.ibb.co/sPSnt5c/harvard-university-campus.jpg",
+        "college_name": "Ohio State University",
+        "rating": "3.75",
+        "admission_dates": [
+          {
+            "semester": "Fall 2023",
+            "start_date": "2023-08-15",
+            "end_date": "2023-09-30"
+          },
+          {
+            "semester": "Spring 2024",
+            "start_date": "2024-01-15",
+            "end_date": "2024-02-28"
+          }
+        ],
+        "events": [
+          {
+            "event_name": "Freshers' Social",
+            "date": "2023-08-21",
+            "location": "College Hall"
+          },
+          {
+            "event_name": "Artistic Showcase",
+            "date": "2023-11-14",
+            "location": "Art Gallery"
+          }
+        ],
+        "research_history": [
+          {
+            "year": "2022",
+            "description": "Establishment of the Center for Archaeological Studies"
+          },
+          {
+            "year": "2023",
+            "description": "Publication of groundbreaking research in Archaeology"
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Baseball",
+            "coach": "Michael Turner",
+            "practice_schedule": "Monday, Wednesday, Friday 4:00 PM - 6:00 PM"
+          },
+          {
+            "sport_name": "Softball",
+            "coach": "Emily Robinson",
+            "practice_schedule": "Tuesday, Thursday 5:00 PM - 7:00 PM"
+          }
+        ]
+      }
+]
