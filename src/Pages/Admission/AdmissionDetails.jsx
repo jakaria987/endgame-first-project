@@ -31,7 +31,7 @@ const AdmissionDetails = () => {
     }
     console.log(admit);
 
-    fetch('https://endgame-first-project-server.vercel.app/admission', {
+    fetch('http://localhost:5000/admission', {
         method: 'POST',
         headers: {
             "content-type" : "application/json"

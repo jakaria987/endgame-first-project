@@ -34,7 +34,7 @@ const Home = () => {
   const [colleges, setColleges] = useState([]);
 
   useEffect(() => {
-    fetch("https://endgame-first-project-server.vercel.app/allColleges")
+    fetch("http://localhost:5000/allColleges")
       .then((res) => res.json())
       .then((data) => setColleges(data));
   }, []);

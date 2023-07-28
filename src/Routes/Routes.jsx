@@ -30,12 +30,12 @@ const router = createBrowserRouter([
         {
           path:'collegeDetails/:id',
           element: <CollegeDetails></CollegeDetails>,
-          loader: ({params}) => fetch(`https://endgame-first-project-server.vercel.app/colleges/${params.id}`)
+          loader: ({params}) => fetch(`http://localhost:5000/colleges/${params.id}`)
         },
         {
           path:'allCollegeDetails/:id',
           element: <AllCollegeDetails></AllCollegeDetails>,
-          loader: ({params}) => fetch(`https://endgame-first-project-server.vercel.app/colleges/${params.id}`)
+          loader: ({params}) => fetch(`http://localhost:5000/colleges/${params.id}`)
         },
         {
           path:'allColleges',
@@ -48,7 +48,7 @@ const router = createBrowserRouter([
         {
           path:'admission/:id',
           element:<AdmissionDetails></AdmissionDetails>,
-          loader: ({params}) => fetch(`https://endgame-first-project-server.vercel.app/admission/${params.id}`)
+          loader: ({params}) => fetch(`http://localhost:5000/admission/${params.id}`)
         },
         {
           path:'myCollege',
